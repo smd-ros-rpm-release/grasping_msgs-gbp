@@ -1,12 +1,12 @@
 <package>
 
   <name>grasping_msgs</name>
-  <version>0.3.0</version>
+  <version>0.3.1</version>
   <description>
-    Grasping related messages
+    Messages for describing objects and how to grasp them.
   </description>
   <author>Michael Ferguson</author>
-  <maintainer email="fergs@unboundedrobotics.com">Michael Ferguson</maintainer>
+  <maintainer email="mfergs7@gmail.com">Michael Ferguson</maintainer>
   <license>BSD</license>
   <url>http://ros.org/wiki/grasping_msgs</url>
   
